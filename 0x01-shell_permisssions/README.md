@@ -10,8 +10,9 @@ The directory as the name suggests shall contain the shell file permission alter
 - A readme is present at the root of the directory
 - All scripts are executable
 
-| File_name | Description |
-| --------- | ----------- |
+# Files
+| **File_name** | **Description** |
+| ------------- | --------------- |
 | 0-iam_betty | Switches the current user to the user *betty* |
 | 1-who_am_i | Print effective user name of the currrent user |
 | 2-groups | Prints all the groups the current user is part of |
