@@ -9,3 +9,4 @@ The following are the various directories:
 | Directory_name | Descfiption |
 | -------------- | ----------- |
 | 0x00-shell_basics | This contains executable scripts containing some basic shell commands used to navigate through shell |
+| 0x01-shell_permissins | Contains exxecutable scripts that manipulate file permissions in shell |
