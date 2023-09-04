@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -al | cut -d " " -f 1 | grep -c d

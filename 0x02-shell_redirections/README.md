@@ -20,7 +20,9 @@ The directory as the name suggests shall contain some shell standard input and s
 | 4-lastlines | Displays the last 10 lines of */etc/passwd* |
 | 5-firstlines | Displays the first 10 lines of */etc/passwd* |
 | 6-third_line | Displays the third line of the file *iacta* which will be in the working directory |
-| 7-file | Creates a file named exactly *\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)* containing the text *Best School* ending by a new line |
+| 7-file | Creates a file named exactly
+     containing the text *Best School* ending by a new line |
 | 8-cwd_state | Writes into the file *ls_cwd_content* the results of the command *ls -la* |
 | 9-duplicate_last_line | Duplicates the last line of the file *iacta* |
 | 10-no_more_js | Deletes all regular files (not the directories) with a *.js* extention that are present in the current directory and all subdirectories |
+| 11-directories | Counts the number of directories and sub-directories in the current directory<ul><li>The current and parent directories should be taken into account</li><li>Hidden directories should be counted</li></ul> |
