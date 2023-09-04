@@ -1,0 +1,22 @@
+##1
+# 2User Database
+#3
+# 4Note that this file is consulted directly only when the system is running
+# 5in single-user mode. At other times this information is provided by
+# 6Open Directory.
+#7
+#8 See the opendirectoryd(8) man page for additional information about
+# 9Open Directory.
+##10
+11nobody:*:-2:-2:Unprivileged User:/var/empty:/usr/bin/false
+12r1oot:*:0:0:System Administrator:/var/root:/bin/sh
+13daemon:*:1:1:System Services:/var/root:/usr/bin/false
+##14
+# 15Host Database
+#16
+# 17localhost is used to configure the loopback interface
+# 18when the system is booting. Do not change this entry.
+##19
+20 127.0.0.1   localhost
+21 255.255.255.255 broadcasthost
+22 255.255.255.255 broadcasthost
