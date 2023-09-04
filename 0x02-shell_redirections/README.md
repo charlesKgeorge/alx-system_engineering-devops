@@ -16,3 +16,10 @@ The directory as the name suggests shall contain some shell standard input and s
 | 0-hello_world | Prints hello world to the standard output |
 | 1-confued_smile | Displays a confused smiley **"(Ôo)'** |
 | 2-hellofile | Displays content of the */etc/passwd* file |
+| 3-twofiles | Displays the content of  */etc/passwd* and */etc/hosts* |
+| 4-lastlines | Displays the last 10 lines of */etc/passwd* |
+| 5-firstlines | Displays the first 10 lines of */etc/passwd* |
+| 6-third_line | Displays the third line of the file *iacta* which will be in the working directory |
+| 7-file | Creates a file named exactly *\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)* containing the text *Best School* ending by a new line |
+| 8-cwd_state | Writes into the file *ls_cwd_content* the results of the command *ls -la* |
+| 9-duplicate_last_line | Duplicates the last line of the file *iacta* |
